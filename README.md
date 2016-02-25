@@ -1,2 +1,2 @@
 # my-AMD
-init
+A AMD implementation
