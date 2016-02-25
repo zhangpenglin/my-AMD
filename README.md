@@ -1,0 +1,2 @@
+# my-AMD
+init
