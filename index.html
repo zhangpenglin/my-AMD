@@ -5,7 +5,7 @@
     <title>Title</title>
     <script src="myAMD.js"></script>
     <script>
-        myAMD.load('jquery.js',function(){
+        myAMD.load(['jquery.js','jquery-ui.js'],function(){
             console.assert(window.jQuery!=undefined)
             console.log(window.jQuery)
         })
